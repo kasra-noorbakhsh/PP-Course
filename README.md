@@ -1,2 +1,7 @@
-# PP-Course
-This repo is for the Parallel Programming course.
+# 📚 PP-Course: Parallel Processing Course Projects
+
+This repository contains projects and assignments from my **Parallel Processing (PP) Course**.
+
+---
+
+
